@@ -1,0 +1,17 @@
+C:\Users\Makeroot\Desktop\microserpis\Rabbitmqsample\RabbitMQProducer\bin\Debug\net6.0\RabbitMQProducer.exe
+C:\Users\Makeroot\Desktop\microserpis\Rabbitmqsample\RabbitMQProducer\bin\Debug\net6.0\RabbitMQProducer.deps.json
+C:\Users\Makeroot\Desktop\microserpis\Rabbitmqsample\RabbitMQProducer\bin\Debug\net6.0\RabbitMQProducer.runtimeconfig.json
+C:\Users\Makeroot\Desktop\microserpis\Rabbitmqsample\RabbitMQProducer\bin\Debug\net6.0\RabbitMQProducer.dll
+C:\Users\Makeroot\Desktop\microserpis\Rabbitmqsample\RabbitMQProducer\bin\Debug\net6.0\RabbitMQProducer.pdb
+C:\Users\Makeroot\Desktop\microserpis\Rabbitmqsample\RabbitMQProducer\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\Makeroot\Desktop\microserpis\Rabbitmqsample\RabbitMQProducer\obj\Debug\net6.0\RabbitMQProducer.csproj.AssemblyReference.cache
+C:\Users\Makeroot\Desktop\microserpis\Rabbitmqsample\RabbitMQProducer\obj\Debug\net6.0\RabbitMQProducer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Makeroot\Desktop\microserpis\Rabbitmqsample\RabbitMQProducer\obj\Debug\net6.0\RabbitMQProducer.AssemblyInfoInputs.cache
+C:\Users\Makeroot\Desktop\microserpis\Rabbitmqsample\RabbitMQProducer\obj\Debug\net6.0\RabbitMQProducer.AssemblyInfo.cs
+C:\Users\Makeroot\Desktop\microserpis\Rabbitmqsample\RabbitMQProducer\obj\Debug\net6.0\RabbitMQProducer.csproj.CoreCompileInputs.cache
+C:\Users\Makeroot\Desktop\microserpis\Rabbitmqsample\RabbitMQProducer\obj\Debug\net6.0\RabbitMQProducer.csproj.CopyComplete
+C:\Users\Makeroot\Desktop\microserpis\Rabbitmqsample\RabbitMQProducer\obj\Debug\net6.0\RabbitMQProducer.dll
+C:\Users\Makeroot\Desktop\microserpis\Rabbitmqsample\RabbitMQProducer\obj\Debug\net6.0\refint\RabbitMQProducer.dll
+C:\Users\Makeroot\Desktop\microserpis\Rabbitmqsample\RabbitMQProducer\obj\Debug\net6.0\RabbitMQProducer.pdb
+C:\Users\Makeroot\Desktop\microserpis\Rabbitmqsample\RabbitMQProducer\obj\Debug\net6.0\RabbitMQProducer.genruntimeconfig.cache
+C:\Users\Makeroot\Desktop\microserpis\Rabbitmqsample\RabbitMQProducer\obj\Debug\net6.0\ref\RabbitMQProducer.dll

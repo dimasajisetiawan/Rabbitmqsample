@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1vTijIJTachrrjpl35rwKjW6CPV3ae86qv1AyrMCjBiQhu9fHYm1F8m4KZrbn3lL+Ur0kejqpMdjFe51anpxCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Makeroot\\Desktop\\microserpis\\Rabbitmqsample\\RabbitMQConsumer\\RabbitMQConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Makeroot\\.nuget\\packages\\rabbitmq.client\\6.3.0\\rabbitmq.client.6.3.0.nupkg.sha512",
+    "C:\\Users\\Makeroot\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Makeroot\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
